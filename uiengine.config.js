@@ -28,6 +28,7 @@ module.exports = {
   // and needs to provide functions for setup and rendering. For details see the adapters docs.
   adapters: {
     html: '@uiengine/adapter-html',
+    stml: './src/uiengine/adapter/stml',
     css: './src/uiengine/adapter/css',
     tsx: './src/uiengine/adapter/tsx',
   },
