@@ -33,3 +33,9 @@ Put up the frame (it serves the global css variables) and start to use component
 For a specific version use `https://lib.patternson.io/Octopus/v/[tag].js`
 
 Where `[tag]` must be either `latest` or a valid semver specifier.
+
+## UIengine
+
+Runs on [`localhost:3000`](http://localhost:3000).
+
+Use `uiengine component op-my-new-component` to create new components.
