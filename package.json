@@ -17,6 +17,8 @@
 		"@stencil/dev-server": "0.0.18",
 		"@stencil/utils": "0.0.4",
 		"@types/node": "^10.1.4",
+		"@uiengine/adapter-html": "^0.21.0",
+		"@uiengine/core": "^0.22.2",
 		"eslint": "4.19.1",
 		"eslint-config-airbnb-base": "12.1.0",
 		"eslint-config-prettier": "2.9.0",
